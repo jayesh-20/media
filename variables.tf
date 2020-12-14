@@ -1,17 +1,17 @@
 variable "tenant_id" {
-  default = "6ea397c1-4d54-4585-9bca-a2ffeb6cc36c"
+  default = "xxxxxxxxxxxxxxx"
 }
 
 variable "client_id" {
-  default = "4bb9b4b1-9fca-4bda-9ba3-583291eecfc3"
+  default = "xxxxxxxxxxxxxxxxx"
 }
 
 variable "client_secret" {
-  default = "MocKJQ.8sBiatZ3.KQBYU~BIGCYbJVqr-2"
+  default = "xxxxxxxxxxxxxx"
 }
 
 variable "subscription_id" {
-  default = "6d7b7336-eabb-4212-b103-5fa18dd9595d"
+  default = "xxxxxxxxxxxxxxx"
 }
 
 variable "environment" {
@@ -29,7 +29,7 @@ variable "VM_Username" {
   default = "centosad"
 }
 variable "VM_Password" {
-  default = "Password@123"
+  default = "xxxxxxxxxxxx"
 }
 
 variable "key_path" {
